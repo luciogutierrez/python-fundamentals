@@ -1,2 +1,2 @@
 # python-fundamentos
-Curso de fundametos de python
+python fundamentals courso
