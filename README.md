@@ -1,2 +1,1 @@
-# python-fundamentos
-python fundamentals courso
+# python-fundamentals
